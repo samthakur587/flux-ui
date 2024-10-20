@@ -25,7 +25,7 @@ To run this app, you need:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/streamlit-image-generator.git
+   git clone https://github.com/samthakur587/flux-ui.git
    ```
 2. Navigate into the project directory:
    ```bash
@@ -53,6 +53,6 @@ To run this app, you need:
 
 here the deployed streamlit try out
 
-![app](link)
+![app](https://flux-ui.streamlit.app/)
 
 Enjoy generating beautiful AI images with just a few clicks!
