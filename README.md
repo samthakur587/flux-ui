@@ -4,7 +4,7 @@
 This Streamlit app leverages the Together AI API to generate images using the FLUX.1-schnell model. It allows users to enter prompts, select the number of images and steps, and generate high-quality images based on their descriptions.
 
 
-![Alt text](path/to/image)
+![Alt text](https://github.com/samthakur587/flux-ui/blob/main/Screenshot%20from%202024-10-20%2018-30-52.png)
 
 ## Features
 
@@ -51,8 +51,8 @@ To run this app, you need:
 
 ## Example
 
-Below is a screenshot of the app in action, generating an image of a woman in a backless dress at the Cannes Film Festival.
+here the deployed streamlit try out
 
-![App Screenshot](./image.png)
+![app](link)
 
 Enjoy generating beautiful AI images with just a few clicks!
